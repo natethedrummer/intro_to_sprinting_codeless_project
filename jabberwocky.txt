@@ -1,4 +1,4 @@
-Jabberwocky
+﻿Jabberwocky
 
 by Lewis Carroll
 
@@ -8,7 +8,7 @@ All mimsy were the borogoves,
       And the mome raths outgrabe. 
 
 “Beware the Jabberwock, my son! 
-      The jaws that bite, the claws that catch! 
+      The jaws that bite, the claws that snatch! 
 Beware the Jubjub bird, and shun 
       The frumious Bandersnatch!” 
 
